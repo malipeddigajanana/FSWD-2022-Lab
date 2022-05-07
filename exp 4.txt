@@ -1,0 +1,10 @@
+app.get register 
+from register to register.pug to get post 
+for validation
+exp 7
+create git acount
+git init
+git config
+git add register.pug
+git add app.js
+git commit registration added
